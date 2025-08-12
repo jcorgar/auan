@@ -36,7 +36,7 @@ class ProteinEmbedder:
             self.model_name = model_name
             
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-        self.model = AutoModel.from_pretrained(self.model_name)
+        self.model = AutoModel.from_pretrained(self.model_name, output_hidden_states=True)
         
         # Set model to evaluation mode
         self.model.eval()
