@@ -1,0 +1,3 @@
+[10:18 PM, 8/11/2025] Juan Corchado: Para las representaciones de moléculas, las pruebas que quiero hacer son contar nitrógenos, contar heteroatomos, calcular masa molecular y finalmente calcular alogp.
+[10:18 PM, 8/11/2025] Juan Corchado: Quiero compar los fingerprints con diferentes hyperparametets con la representación esa de gráficas
+[10:19 PM, 8/11/2025] Juan Corchado: Y ya de gratis nos sale lo de ver los important features con esas pruebas
